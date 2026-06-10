@@ -1,0 +1,9 @@
+{
+	"experimentalOperatorPosition": "start",
+	"singleQuote": true,
+	"useTabs": true,
+	"tabWidth": 4,
+	"printWidth": 100,
+	"htmlWhitespaceSensitivity": "strict",
+	"trailingComma": "es5"
+}
