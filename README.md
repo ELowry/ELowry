@@ -4,7 +4,7 @@
 
 **I am a passionate UI/UX designer, web developer, and curious creative.**
 
-![stack of books icon](/media/books.svg) Discover my interactive side-scroller portfolio at [https://eric-lowry.com](https://eric-lowry.com)  
+![stack of books icon](/media/books.svg) Discover my interactive side-scroller portfolio at [https://eric-lowry.com](https://eric-lowry.com) *(WORK IN PROHGRESS)*  
      ![clipboard icon](/media/clipboard.svg) or just skip to [my CV](https://eric-lowry.com/text/cv) directly
 
 ![article icon](/media/article.svg) Read my blog at [https://eric-lowry.com/blog](https://eric-lowry.com/blog)  
