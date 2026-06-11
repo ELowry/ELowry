@@ -1,4 +1,4 @@
-## Hello fello nerds ![peace sign hand icon](/media/hand.svg)
+## Hello fellow nerds ![peace sign hand icon](/media/hand.svg)
 
 ### My name is Eric Lowry<sub> (he/him)</sub>
 
